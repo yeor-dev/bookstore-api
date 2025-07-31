@@ -62,6 +62,7 @@ Allows you to create, read, update, and delete books, authors, and categories.
 ## 🔧 Installation & Running
 
 1. Clone the repo  
+
 ```bash
 git clone https://github.com/yeor-dev/bookstore-api.git
 cd bookstore-api
